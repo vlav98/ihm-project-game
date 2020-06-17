@@ -1,0 +1,82 @@
+C:\Users\nawel\Desktop\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+C:\Users\nawel\Desktop\projetIHM\projetIHM\bin\Debug\projetIHM.exe
+C:\Users\nawel\Desktop\projetIHM\projetIHM\bin\Debug\projetIHM.pdb
+C:\Users\nawel\Desktop\projetIHM\projetIHM\bin\Debug\projetIHM.xml
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.vbprojResolveAssemblyReference.cache
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.Resources.resources
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.vbproj.GenerateResource.Cache
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
+E:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
+E:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.exe
+E:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.pdb
+E:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.xml
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.vbprojResolveAssemblyReference.cache
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.Resources.resources
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.vbproj.GenerateResource.Cache
+H:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.vbprojResolveAssemblyReference.cache
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.Resources.resources
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.vbproj.GenerateResource.Cache
+H:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.exe
+H:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.pdb
+H:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\projetIHM.xml
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.resources
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMemory.resources
+H:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\zu\projetIHM.resources.dll
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.zu.resources
+H:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\zu\projetIHM.resources.dll
+E:\IHM VB\projet\projetIHM\projetIHM\bin\Debug\zu\projetIHM.resources.dll
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.resources
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMemory.resources
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.zu.resources
+E:\IHM VB\projet\projetIHM\projetIHM\obj\Debug\zu\projetIHM.resources.dll
+C:\Users\nawel\Desktop\projetIHM\projetIHM\bin\Debug\zu\projetIHM.resources.dll
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.resources
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.FormMemory.resources
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.zu.resources
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\zu\projetIHM.resources.dll
+C:\Users\nawel\Desktop\projetIHM\projetIHM\obj\Debug\projetIHM.score.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
+F:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.exe
+F:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.pdb
+F:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.xml
+F:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\zu\projetIHM.resources.dll
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.vbprojResolveAssemblyReference.cache
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMemory.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.Resources.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.score.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.zu.resources
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.vbproj.GenerateResource.Cache
+F:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\zu\projetIHM.resources.dll
+E:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
+E:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.exe
+E:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.pdb
+E:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\projetIHM.xml
+E:\IHMVBPROJECT\projetIHM\projetIHM\bin\Debug\zu\projetIHM.resources.dll
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.vbprojResolveAssemblyReference.cache
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.resources
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMemory.resources
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.Resources.resources
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.score.resources
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.FormMenu.zu.resources
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\projetIHM.vbproj.GenerateResource.Cache
+E:\IHMVBPROJECT\projetIHM\projetIHM\obj\Debug\zu\projetIHM.resources.dll
+C:\Users\Hotaru\Downloads\IHMVBPROJECTnawel\projetIHM\projetIHM\bin\Debug\projetIHM.exe.config
+C:\Users\Hotaru\Downloads\IHMVBPROJECTnawel\projetIHM\projetIHM\obj\Debug\projetIHM.exe
+C:\Users\Hotaru\Downloads\IHMVBPROJECTnawel\projetIHM\projetIHM\obj\Debug\projetIHM.xml
+C:\Users\Hotaru\Downloads\IHMVBPROJECTnawel\projetIHM\projetIHM\obj\Debug\projetIHM.pdb
